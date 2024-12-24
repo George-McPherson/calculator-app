@@ -13,6 +13,7 @@ body {
     width: 400px;
     background: black;
     color: white;
+    margin: auto;
 }
  .calc-button-row {
     display: flex;
